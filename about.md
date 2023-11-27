@@ -29,4 +29,3 @@ Zhao Zuyao
 **may u needs ✨**
 
 - {{ site.author.email }}
-- github.com/{{ site.author.github }}
